@@ -1,1 +1,1 @@
-# war_debt
+# Replication materials for Preventive War and Sovereign Debt
