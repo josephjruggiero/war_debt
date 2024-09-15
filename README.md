@@ -40,7 +40,7 @@ The following files contain all of the data used in the analysis.
 
 * ```BellJohnsonISQrepDDyadic.dta```
 
-    This file was retrieved from [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MYBQTZ) and contains data used for analysis in the following paper.
+    This file is omitted here due to size and can be retrieved from [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MYBQTZ). It contains data used for analysis in the following paper.
 
     > Bell, Sam R. and Jesse C. Johnson. 2015. "Shifting Power, Commitment Problems, and Preventive War." <em>International Studies Quarterly</em> 59 (1): 133-144.
 
